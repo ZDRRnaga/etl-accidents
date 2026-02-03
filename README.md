@@ -27,8 +27,8 @@ Este proyecto tiene como objetivo demostrar habilidades prácticas en **ingenier
 ---
 ## Ejecución
 
-pip install -r requirements.txt
-python main.py
+- pip install -r requirements.txt
+- python main.py
 
 ---
 
